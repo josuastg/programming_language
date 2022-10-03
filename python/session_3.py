@@ -29,6 +29,7 @@ print('RESULT ADD 2 MATRIKS')
 for c in result:
     print(c)
 
+# MIN 2 MATRIKS
 for a in range(0, len(firstMatrix)):
     for b in range(0,len(firstMatrix[0])):
         result[a][b] = firstMatrix[a][b] - secondMatrix[a][b]
