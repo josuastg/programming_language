@@ -1,5 +1,5 @@
 #PARADIGMA PEMROGRAMAN
-# Merupakan sebagai dasar dari memahami bahasa pemrograman, mulai dari pola desain bahasa pemrograman hingga dapat mengurangi kompleksitas dari sebuah program sehingga dapat menyelesaikan masalah-masalah yang ada.
+# Merupakan dasar dari memahami bahasa pemrograman, mulai dari pola desain bahasa pemrograman, gaya, pendekatan sehingga dapat mengurangi kompleksitas dari sebuah program sehingga dapat menyelesaikan masalah-masalah yang ada.
 # Paradigma Pemrograman juga sebagai sudut pandang untuk mengelompokkan bahasa pemrograman berdasarkan kemampuannya.
 
 # PEMROGRAMAN BERORIENTASI OBJEK
