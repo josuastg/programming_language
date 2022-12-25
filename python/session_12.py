@@ -184,7 +184,7 @@ secondGarden = Garden(10, len(vegetablePlants), "Taman Sayuran", vegetablePlants
 myStore = Store("Toko Bunga dan Sayuran", 0, [])
 myStore.addGardenToStore(garden)
 myStore.addGardenToStore(secondGarden)
-# myStore.displayGarden()
+myStore.displayGarden()
 
 myStore.removeGardenFromStore("Taman Bunga")
 
