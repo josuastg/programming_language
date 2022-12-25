@@ -190,7 +190,7 @@ myStore.removeGardenFromStore("Taman Bunga")
 
 
 person = Person("Josua")
-person.buyPlant(myStore, "Taman Sayuran", "Sawi", 6)
+person.buyPlant(myStore, "Taman Sayuran", "Sawi", 3)
 
 
 
