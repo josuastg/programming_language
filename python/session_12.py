@@ -152,7 +152,7 @@ class Person:
     def __init__(self, name):
         self.name = name
     
-    def buyPlant(self, store = Store(), category = "", plantName = 0, amount = 0):
+    def buyPlant(self, store = Store(), category = "", plantName = "", amount = 0):
         for idx in range(0, len(store.listGarden)):
             if category == store.listGarden[idx].mGardenName:
                 for secondIdx in range(0, len(store.listGarden[idx].pArrList)):
